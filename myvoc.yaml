@@ -1,0 +1,13 @@
+# path: ./datasets
+path: ./datasets2
+train: images/train
+val: images/valid
+
+nc: 2
+# names: 
+#     0: Fallen
+#     1: Falling
+
+names: 
+    0: fall
+    1: person
